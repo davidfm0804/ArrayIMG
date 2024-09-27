@@ -18,7 +18,7 @@
                 $array["rosa"] = "rosa.jpg";
                 $array ["cactus"] ="cactus.jpg";    
                 $array["margarita"]="margarita.jpg";
-                
+                //var_dump($array);
                 foreach($array as $i => $valor){
                     echo "<td>
                             <figure>
